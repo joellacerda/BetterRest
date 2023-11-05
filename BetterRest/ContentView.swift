@@ -6,7 +6,6 @@
 //
 
 import CoreML
-import Foundation
 import SwiftUI
 
 struct ContentView: View {
